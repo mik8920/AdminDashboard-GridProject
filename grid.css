@@ -283,10 +283,11 @@ input {
   border-bottom: 1px solid rgba(128, 128, 128, 0.2);
   display: flex;
   padding: 5px;
+  gap:10px;
 }
 
 .profile-svg {
-  width: 50px;
+  width: 40px;
   border-radius: 50%;
 }
 
